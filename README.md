@@ -1,0 +1,1 @@
+Bookbot is a new project to practice new Python skils using git.
